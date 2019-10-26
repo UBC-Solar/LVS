@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=MainControlBoard\MainControlBoard.PrjPcb
+[Project2]
+ProjectPath=V3_Lights\V3_Lights.PrjPcb
