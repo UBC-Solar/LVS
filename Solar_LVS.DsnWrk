@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=MainControlBoard\MainControlBoard.PrjPcb
 [Project2]
 ProjectPath=V3_Lights\V3_Lights.PrjPcb
+[Project3]
+ProjectPath=..\Downloads\15nucleo_64pins_sch\MB1136C_schematic_layout\MB1136.PrjPCB
