@@ -1,3 +1,3 @@
 Record=TopLevelDocument|FileName=MCBSchematic.SchDoc
 Record=SheetSymbol|SourceDocument=MCBSchematic.SchDoc|Designator=M1|SchDesignator=M1|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=MCBSchematic.SchDoc|Designator=M2|SchDesignator=M2|FileName=MCBSupply.SchDoc|SymbolType=Normal|RawFileName=MCBSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=MCBSchematic.SchDoc|Designator=Power Supply|SchDesignator=Power Supply|FileName=MCBSupply.SchDoc|SymbolType=Normal|RawFileName=MCBSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
