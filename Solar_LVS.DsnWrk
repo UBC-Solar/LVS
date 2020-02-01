@@ -1,8 +1,8 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=V3_Lights\V3_Lights.PrjPcb
+ProjectPath=V3_Horn\V3_Horn.PrjPcb
 [Project2]
 ProjectPath=MainControlBoard\MainControlBoard.PrjPcb
 [Project3]
-ProjectPath=V3_Horn\V3_Horn.PrjPcb
+ProjectPath=V3_Lights\V3_Lights.PrjPcb
