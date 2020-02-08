@@ -90,7 +90,7 @@ DocumentUniqueId=NXGJFUJZ
 
 [Document4]
 DocumentPath=V3Lights.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -107,7 +107,7 @@ DocumentUniqueId=DGNHUMAG
 
 [Document5]
 DocumentPath=Daytime Running Lights.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -124,7 +124,7 @@ DocumentUniqueId=SCFAEAWU
 
 [Document6]
 DocumentPath=Right Turn.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -141,7 +141,7 @@ DocumentUniqueId=BZZCZMXM
 
 [Document7]
 DocumentPath=Left Turn.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -175,7 +175,7 @@ DocumentUniqueId=OSXHRFMS
 
 [Document9]
 DocumentPath=V3Lights  Sheet.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
