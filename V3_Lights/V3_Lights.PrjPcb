@@ -72,40 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=EULWRGGU
 
 [Document3]
-DocumentPath=Main.SchDoc
-AnnotationEnabled=0
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=5
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=NXGJFUJZ
-
-[Document4]
-DocumentPath=V3Lights.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DGNHUMAG
-
-[Document5]
 DocumentPath=Daytime Running Lights.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -122,7 +88,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SCFAEAWU
 
-[Document6]
+[Document4]
+DocumentPath=Main.SchDoc
+AnnotationEnabled=0
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FKRDRWNQ
+
+[Document5]
 DocumentPath=Right Turn.SchDoc
 AnnotationEnabled=0
 AnnotateStartValue=1
@@ -138,6 +121,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BZZCZMXM
+
+[Document6]
+DocumentPath=V3Lights.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DGNHUMAG
 
 [Document7]
 DocumentPath=Left Turn.SchDoc
