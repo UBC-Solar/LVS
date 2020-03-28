@@ -6,3 +6,5 @@ ProjectPath=V3_Lights\V3_Lights.PrjPcb
 ProjectPath=MainControlBoard\MainControlBoard.PrjPcb
 [Project3]
 ProjectPath=V3_Horn\V3_Horn.PrjPcb
+[Project4]
+ProjectPath=..\..\Public\Documents\Altium\Projects\V3_Dashboard\V3_Dashboard.PrjPcb
