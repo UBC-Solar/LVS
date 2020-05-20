@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : XBP24CAUIT-001.LibPkg
+
+Section : C:\Users\kelvi\Documents\UNI\UBC\UBC SOLAR\XBP24CAUIT-001\XBP24CAUIT-001.lia
+    Section : PCB Library - XBP24CAUIT-001.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token XBP24CAUIT-001 On Line 157
+            Warning - 1 : Skipping Token attachedSymbol On Line 384
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - XBP24CAUIT-001.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 118
+            Warning - 1 : Skipping Token layerContents On Line 127
+            Warning - 1 : Skipping Token layerContents On Line 133
+            Warning - 1 : Skipping Token layerContents On Line 144
+        EndSection
+
+        Section : Generating SCH Library - XBP24CAUIT-001.SchLib
+        EndSection
+    EndSection
+EndSection

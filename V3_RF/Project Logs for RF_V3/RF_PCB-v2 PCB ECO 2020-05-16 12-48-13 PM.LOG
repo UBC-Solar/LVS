@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=12V Pin=L1-1
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=5V Pin=L2-1
+Added Pin To Net: NetName=NetC7_2 Pin=L2-2
+Added Room: Name=RF_Power
+Added Room: Name=RF_STM
+Added Room: Name=RF_Xbee
