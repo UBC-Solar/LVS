@@ -1,0 +1,90 @@
+Removed Pin From Net: NetName=GND Pin=J1.2-2
+Removed Pin From Net: NetName=SWDIO Pin=J1.2-4
+Removed Pin From Net: NetName=SWDCLK Pin=J1.2-5
+Removed Pin From Net: NetName=NRST Pin=J1.2-6
+Removed Pin From Net: NetName=Boot1 Pin=J1.3-2
+Removed Pin From Net: NetName=3.3V Pin=J1.3-4
+Removed Pin From Net: NetName=Boot0 Pin=J1.3-5
+Removed Pin From Net: NetName=GND Pin=J1.3-6
+Change Component Footprint: Designator=J1.2 Old Footprint=Mini-fit Jr. 6pos New Footprint=0.1" Header 3pos
+Change Component Footprint: Designator=J1.3 Old Footprint=Mini-fit Jr. 6pos New Footprint=0.1" Header 3pos
+Change Component Comment : Designator=J1.2 Old Comment=0353180620 New Comment=Boot1 HDR
+Change Component Comment : Designator=J1.3 Old Comment=BOOT HDR New Comment=HDR
+Change component parameters: Designator = "J1.2" ("J1.2"); Footprint = "Mini-fit Jr. 6pos"; UniqueID = "\QYKWLFSH" ("\QYKWLFSH")
+Change component parameters: Designator = "J1.3" ("J1.3"); Footprint = "Mini-fit Jr. 6pos"; UniqueID = "\QDBWZMCD" ("\QDBWZMCD")
+Added Component: Designator=J1.5(0.1" Header 4pos)
+Added Component: Designator=M1(3mm Mounting Hole)
+Added Component: Designator=M2(3mm Mounting Hole)
+Added Component: Designator=M3(3mm Mounting Hole)
+Added Component: Designator=M4(3mm Mounting Hole)
+Added Component: Designator=R1.6(R0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/27056/2078477-27056611.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/27056/2078477-27056611.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 0.100000, 10 = 0.081000, 100 = 0.031100, 1000 = 0.013670, 2500 = 0.011810 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10000R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3342401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Component: Designator=R1.7(R0805)
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/27056/2078477-27056611.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/27056/2078477-27056611.pdf?src-supplier=Jameco"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJ-6ENF1002V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 0.100000, 10 = 0.081000, 100 = 0.031100, 1000 = 0.013670, 2500 = 0.011810 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "10000R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3342401"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P10.0KCCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "150V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.25mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Boot1 Pin=J1.2-2
+Added Pin To Net: NetName=GND Pin=J1.2-3
+Added Pin To Net: NetName=Boot0 Pin=J1.3-2
+Added Pin To Net: NetName=GND Pin=J1.5-1
+Added Pin To Net: NetName=SWDCLK Pin=J1.5-2
+Added Pin To Net: NetName=SWDIO Pin=J1.5-3
+Added Pin To Net: NetName=3.3V Pin=J1.5-4
+Added Pin To Net: NetName=3.3V Pin=R1.6-1
+Added Pin To Net: NetName=SWDIO Pin=R1.6-2
+Added Pin To Net: NetName=GND Pin=R1.7-1
+Added Pin To Net: NetName=SWDCLK Pin=R1.7-2
+Added Class: Name=misc_comp
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component J1.5 HDR
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component R1.6 10K
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component R1.7 10K

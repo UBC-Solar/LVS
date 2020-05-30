@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPS_TX Pin=J1.4-2
+Removed Pin From Net: NetName=5V Pin=J1.4-5
+Added Pin To Net: NetName=GPS_TX Pin=J1.4-5
+Added Pin To Net: NetName=5V Pin=J1.4-8

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GPS_RESET Pin=J1.4-4
+Removed Pin From Net: NetName=3.3V Pin=J1.4-6
+Added Pin To Net: NetName=3.3V Pin=J1.4-4
+Added Pin To Net: NetName=GPS_RESET Pin=J1.4-6
