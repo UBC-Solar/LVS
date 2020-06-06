@@ -6,3 +6,5 @@ ProjectPath=V3_Horn\V3_Horn.PrjPcb
 ProjectPath=V3_Lights\V3_Lights.PrjPcb
 [Project3]
 ProjectPath=MainControlBoard\MainControlBoard.PrjPcb
+[Project4]
+ProjectPath=..\Documents\Year3_local\UBC solar\RF_V3\RF_V3\RF_V3.PrjPcb
