@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=CANL Pin=J1.1-4
+Added Pin To Net: NetName=GND Pin=J1.1-6
+Added Pin To Net: NetName=CANH Pin=J1.1-8
+Added Pin To Net: NetName=GND Pin=J1.1-9

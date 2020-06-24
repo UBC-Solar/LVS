@@ -1,0 +1,99 @@
+Removed Pin From Net: NetName=3.3V Pin=D2.1-1
+Removed Pin From Net: NetName=BJT1 Pin=D2.2-1
+Removed Pin From Net: NetName=3.3V Pin=D2.3-1
+Removed Pin From Net: NetName=5V Pin=GPS-8
+Removed Pin From Net: NetName=NetD2.2_2 Pin=R2.6-2
+Removed Pin From Net: NetName=NetD2.4_1 Pin=R2.8-1
+Removed Pin From Net: NetName=NetC1.5_2 Pin=U1.1-4
+Removed Pin From Net: NetName=3.3V Pin=U2.1-14
+Removed Pin From Net: NetName=NetD2.4_1 Pin=U2.2-15
+Change Component Footprint: Designator=C0.2 Old Footprint=0805 New Footprint=1206
+Change Component Footprint: Designator=C0.5 Old Footprint=0805 New Footprint=1206
+Change Component Footprint: Designator=R1.1 Old Footprint=1206 New Footprint=R0805
+Change Component Footprint: Designator=D2.1 Old Footprint=L0805 New Footprint=0603 LED
+Change Component Footprint: Designator=D2.2 Old Footprint=L0805 New Footprint=0603 LED
+Change Component Footprint: Designator=D2.3 Old Footprint=L0805 New Footprint=0603 LED
+Change Component Footprint: Designator=D2.4 Old Footprint=L0805 New Footprint=0603 LED
+Change Component Footprint: Designator=Q2.1 Old Footprint=MMBT3904LT1G New Footprint=SOT-23-3
+Change Component Footprint: Designator=Q2.2 Old Footprint=MMBT3904LT1G New Footprint=SOT-23-3
+Change Component Comment : Designator=3.3V Old Comment=3.3V EXT New Comment=1x2 HDR100
+Change Component Comment : Designator=5V Old Comment=5V EXT New Comment=1x2 HDR100
+Change Component Comment : Designator=12V Old Comment=12V EXT New Comment=1x2 HDR100
+Change Component Comment : Designator=12V Old Comment=12V INP New Comment=G881A02001TEU
+Change Component Comment : Designator=BOOT1 Old Comment=Boot1 HDR New Comment=HDR
+Change Component Comment : Designator=CAN Old Comment=CAN CONNECTOR New Comment=D-Sub9 Header, RA
+Change Component Comment : Designator=GPS Old Comment=GPS CONN New Comment=10132449-0821GLF
+Change Component Comment : Designator=D2.3 Old Comment=Green LED New Comment=GREEN
+Change Component Comment : Designator=D2.4 Old Comment=Green LED New Comment=GREEN
+Change Component Comment : Designator=D2.1 Old Comment=Red LED New Comment=RED
+Change Component Comment : Designator=D2.2 Old Comment=Red LED New Comment=RED
+Change Component Designator: OldDesignator=3.3V NewDesignator=J0.3
+Change Component Designator: OldDesignator=5V NewDesignator=J0.2
+Change Component Designator: OldDesignator=12V NewDesignator=J0.1
+Change Component Designator: OldDesignator=12V NewDesignator=J0.4
+Change Component Designator: OldDesignator=BOOT0 NewDesignator=J1.3
+Change Component Designator: OldDesignator=BOOT1 NewDesignator=J1.2
+Change Component Designator: OldDesignator=CAN NewDesignator=J1.1
+Change Component Designator: OldDesignator=GPS NewDesignator=J1.4
+Change Component Designator: OldDesignator=SWD NewDesignator=J1.5
+Added Component: Designator=R1.8(0805)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Chip SMD Resistors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/15193/getdatasheetpartid-360417-15193658.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/15193/getdatasheetpartid-360417-15193658.pdf?src-supplier=Verical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.026inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RMCF0805ZT0R00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Military Standard"; Value = "Not"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "0mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "14305"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RMCF0805ZT0R00CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=D2.1-2
+Added Pin To Net: NetName=3.3V Pin=D2.3-2
+Added Pin To Net: NetName=BJT1 Pin=D2.4-2
+Added Pin To Net: NetName=GND Pin=J1.4-8
+Added Pin To Net: NetName=NetC1.5_2 Pin=R1.8-1
+Added Pin To Net: NetName=NetD2.4_1 Pin=R2.6-2
+Added Pin To Net: NetName=NetD2.2_2 Pin=R2.8-1
+Added Pin To Net: NetName=NetD2.2_2 Pin=U2.2-15
+Added Pin To Net: NetName=NetD2.1_1 Pin=D2.1-1
+Added Pin To Net: NetName=NetD2.1_1 Pin=R2.7-2
+Added Net: Name=NetD2.1_1
+Added Pin To Net: NetName=NetD2.2_1 Pin=D2.2-1
+Added Pin To Net: NetName=NetD2.2_1 Pin=R2.10-2
+Added Net: Name=NetD2.2_1
+Added Pin To Net: NetName=NetD2.3_1 Pin=D2.3-1
+Added Pin To Net: NetName=NetD2.3_1 Pin=R2.3-2
+Added Net: Name=NetD2.3_1
+Added Pin To Net: NetName=NetR1.8_2 Pin=R1.8-2
+Added Pin To Net: NetName=NetR1.8_2 Pin=U1.1-4
+Added Net: Name=NetR1.8_2
+Added Member To Class: ClassName=Brightside_Telemetry_power_rev2 Member=Component J0.1 1x2 HDR100
+Added Member To Class: ClassName=Brightside_Telemetry_power_rev2 Member=Component J0.2 1x2 HDR100
+Added Member To Class: ClassName=Brightside_Telemetry_power_rev2 Member=Component J0.3 1x2 HDR100
+Added Member To Class: ClassName=Brightside_Telemetry_power_rev2 Member=Component J0.4 G881A02001TEU
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component J1.1 D-Sub9 Header, RA
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component J1.2 HDR
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component J1.3 HDR
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component J1.4 10132449-0821GLF
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component J1.5 HDR
+Added Member To Class: ClassName=Brightside_Telemetry_stm_rev2 Member=Component R1.8 0
