@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=NetD2.1_1 Pin=D2.4-1
+Added Pin To Net: NetName=NetD2.1_1 Pin=J3.1-2
+Change Net Name : Old Net Name=NetD2.1_1 New Net Name=DTR_FL-

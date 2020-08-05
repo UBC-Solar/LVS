@@ -1,0 +1,292 @@
+Added Component: Designator=J1(43045-0400)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/712/430450200-sd-712017.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/712/430450200-sd-712017.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/20209/22-3744e-20209522.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/20209/22-3744e-20209522.pdf?src-supplier=Rapid+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/30193/145420430450400-pcb-headers-30193310.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/30193/145420430450400-pcb-headers-30193310.pdf?src-supplier=Onlinecomponents.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/11746/0900766b80027348-11746988.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/11746/0900766b80027348-11746988.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "12.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fastening Type"; Value = "Ramp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "250V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Row Spacing"; Value = "0.118inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "27642"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "WM1814-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R2(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R3(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R4(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R6(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R7(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R8(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R9(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R10(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF0805JT270R/RMCF0805JT270RCT-ND/1942546"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R13(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R14(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R15(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R16(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R17(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R18(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R19(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R20(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R21(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=R22(0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.digikey.com/product-detail/en/koa-speer-electronics-inc/RK73H2ATTD82R0F/2019-RK73H2ATTD82R0FCT-ND/10235651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.koaspeer.com/pdfs/RK73H.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=J1-1
+Added Pin To Net: NetName=+12 Pin=J1-4
+Added Net: Name=+12
+Added Net: Name=12V
+Added Pin To Net: NetName=DTR_FL- Pin=J1-2
+Added Pin To Net: NetName=DTR_FL- Pin=R12-1
+Added Pin To Net: NetName=DTR_FL- Pin=R13-1
+Added Pin To Net: NetName=DTR_FL- Pin=R14-1
+Added Pin To Net: NetName=DTR_FL- Pin=R15-1
+Added Pin To Net: NetName=DTR_FL- Pin=R16-1
+Added Pin To Net: NetName=DTR_FL- Pin=R17-1
+Added Pin To Net: NetName=DTR_FL- Pin=R18-1
+Added Pin To Net: NetName=DTR_FL- Pin=R19-1
+Added Pin To Net: NetName=DTR_FL- Pin=R20-1
+Added Pin To Net: NetName=DTR_FL- Pin=R21-1
+Added Pin To Net: NetName=DTR_FL- Pin=R22-1
+Added Net: Name=DTR_FL-
+Added Pin To Net: NetName=LTS_F- Pin=J1-3
+Added Pin To Net: NetName=LTS_F- Pin=R1-1
+Added Pin To Net: NetName=LTS_F- Pin=R2-1
+Added Pin To Net: NetName=LTS_F- Pin=R3-1
+Added Pin To Net: NetName=LTS_F- Pin=R4-1
+Added Pin To Net: NetName=LTS_F- Pin=R5-1
+Added Pin To Net: NetName=LTS_F- Pin=R6-1
+Added Pin To Net: NetName=LTS_F- Pin=R7-1
+Added Pin To Net: NetName=LTS_F- Pin=R8-1
+Added Pin To Net: NetName=LTS_F- Pin=R9-1
+Added Pin To Net: NetName=LTS_F- Pin=R10-1
+Added Pin To Net: NetName=LTS_F- Pin=R11-1
+Added Net: Name=LTS_F-
+Added Net: Name=NetD1_2
+Added Net: Name=NetD2_2
+Added Net: Name=NetD3_2
+Added Net: Name=NetD4_2
+Added Net: Name=NetD5_2
+Added Net: Name=NetD6_2
+Added Net: Name=NetD7_2
+Added Net: Name=NetD8_2
+Added Net: Name=NetD9_2
+Added Net: Name=NetD10_2
+Added Net: Name=NetD11_2
+Added Net: Name=NetD12_2
+Added Net: Name=NetD13_2
+Added Net: Name=NetD14_2
+Added Net: Name=NetD15_2
+Added Net: Name=NetD16_2
+Added Net: Name=NetD17_2
+Added Net: Name=NetD18_2
+Added Net: Name=NetD19_2
+Added Net: Name=NetD20_2
+Added Net: Name=NetD21_2
+Added Net: Name=NetD22_2
+Added Net: Name=NetD23_2
+Added Net: Name=NetD24_2
+Added Net: Name=NetD25_2
+Added Net: Name=NetD26_2
+Added Net: Name=NetD27_2
+Added Net: Name=NetD28_2
+Added Net: Name=NetD29_2
+Added Net: Name=NetD30_2
+Added Net: Name=NetD31_2
+Added Net: Name=NetD32_2
+Added Net: Name=NetD33_2
+Added Net: Name=NetD34_2
+Added Net: Name=NetD35_2
+Added Net: Name=NetD36_2
+Added Net: Name=NetD37_2
+Added Net: Name=NetD38_2
+Added Net: Name=NetD39_2
+Added Net: Name=NetD40_2
+Added Net: Name=NetD41_2
+Added Net: Name=NetD42_2
+Added Net: Name=NetD43_2
+Added Net: Name=NetD44_2
+Added Pin To Net: NetName=NetD45_2 Pin=R1-2
+Added Net: Name=NetD45_2
+Added Pin To Net: NetName=NetD46_2 Pin=R2-2
+Added Net: Name=NetD46_2
+Added Pin To Net: NetName=NetD47_2 Pin=R3-2
+Added Net: Name=NetD47_2
+Added Pin To Net: NetName=NetD48_2 Pin=R4-2
+Added Net: Name=NetD48_2
+Added Pin To Net: NetName=NetD49_2 Pin=R5-2
+Added Net: Name=NetD49_2
+Added Pin To Net: NetName=NetD50_2 Pin=R6-2
+Added Net: Name=NetD50_2
+Added Pin To Net: NetName=NetD51_2 Pin=R7-2
+Added Net: Name=NetD51_2
+Added Pin To Net: NetName=NetD52_2 Pin=R8-2
+Added Net: Name=NetD52_2
+Added Pin To Net: NetName=NetD53_2 Pin=R9-2
+Added Net: Name=NetD53_2
+Added Pin To Net: NetName=NetD54_2 Pin=R10-2
+Added Net: Name=NetD54_2
+Added Pin To Net: NetName=NetD55_2 Pin=R11-2
+Added Net: Name=NetD55_2
+Added Pin To Net: NetName=NetD56_2 Pin=R12-2
+Added Net: Name=NetD56_2
+Added Pin To Net: NetName=NetD57_2 Pin=R13-2
+Added Net: Name=NetD57_2
+Added Pin To Net: NetName=NetD58_2 Pin=R14-2
+Added Net: Name=NetD58_2
+Added Pin To Net: NetName=NetD59_2 Pin=R15-2
+Added Net: Name=NetD59_2
+Added Pin To Net: NetName=NetD60_2 Pin=R16-2
+Added Net: Name=NetD60_2
+Added Pin To Net: NetName=NetD61_2 Pin=R17-2
+Added Net: Name=NetD61_2
+Added Pin To Net: NetName=NetD62_2 Pin=R18-2
+Added Net: Name=NetD62_2
+Added Pin To Net: NetName=NetD63_2 Pin=R19-2
+Added Net: Name=NetD63_2
+Added Pin To Net: NetName=NetD64_2 Pin=R20-2
+Added Net: Name=NetD64_2
+Added Pin To Net: NetName=NetD65_2 Pin=R21-2
+Added Net: Name=NetD65_2
+Added Pin To Net: NetName=NetD66_2 Pin=R22-2
+Added Net: Name=NetD66_2
+Added Class: Name=LEDBoard
+Added Room: Name=LEDBoard
